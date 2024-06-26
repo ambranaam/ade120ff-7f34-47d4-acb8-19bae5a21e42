@@ -74,7 +74,7 @@
                         {
                             "packager": "MattairTech_Arduino",
                             "name": "CMSIS-Atmel",
-                            "version": "3.49.1"
+                            "version": "1.0.0-mattairtech-2"
                         },
                         {
                             "packager": "arduino",
@@ -116,6 +116,40 @@
                             "archiveFileName": "bossac-1.7.0-mattairtech-3-x86_64-apple-darwin.tar.gz",
                             "checksum": "SHA-256:da4d4b04582f92d09e3d48a1ec4d2473b6cd01bba992c0f1f2cd7ee1008f08f8",
                             "size": "88845"
+                        }
+                    ]
+                },
+                {
+                    "name": "CMSIS-Atmel",
+                    "version": "1.0.0-mattairtech-2",
+                    "systems": [
+                        {
+                            "host": "i686-mingw32",
+                            "url": "https://github.com/ambranaam/ade120ff-7f34-47d4-acb8-19bae5a21e42/raw/test1/packages/CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
+                            "archiveFileName": "CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
+                            "checksum": "SHA-256:d10ca2a14c8db5757d2b1b4c1e52473ae5337f0762c6617a6074373f2f44540d",
+                            "size": "2008479"
+                        },
+                        {
+                            "host": "x86_64-pc-linux-gnu",
+                            "url": "https://github.com/ambranaam/ade120ff-7f34-47d4-acb8-19bae5a21e42/raw/test1/packages/CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
+                            "archiveFileName": "CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
+                            "checksum": "SHA-256:d10ca2a14c8db5757d2b1b4c1e52473ae5337f0762c6617a6074373f2f44540d",
+                            "size": "2008479"
+                        },
+                        {
+                            "host": "i686-pc-linux-gnu",
+                            "url": "https://github.com/ambranaam/ade120ff-7f34-47d4-acb8-19bae5a21e42/raw/test1/packages/CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
+                            "archiveFileName": "CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
+                            "checksum": "SHA-256:d10ca2a14c8db5757d2b1b4c1e52473ae5337f0762c6617a6074373f2f44540d",
+                            "size": "2008479"
+                        },
+                        {
+                            "host": "x86_64-apple-darwin",
+                            "url": "https://github.com/ambranaam/ade120ff-7f34-47d4-acb8-19bae5a21e42/raw/test1/packages/CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
+                            "archiveFileName": "CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
+                            "checksum": "SHA-256:d10ca2a14c8db5757d2b1b4c1e52473ae5337f0762c6617a6074373f2f44540d",
+                            "size": "2008479"
                         }
                     ]
                 },
