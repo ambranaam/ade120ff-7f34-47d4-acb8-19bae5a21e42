@@ -133,7 +133,7 @@
                         {
                             "packager": "MattairTech_Arduino",
                             "name": "bossac",
-                            "version": "1.0.0-mattairtech-3"
+                            "version": "1.7.0-mattairtech-3"
                         },
                         {
                             "packager": "arduino",
