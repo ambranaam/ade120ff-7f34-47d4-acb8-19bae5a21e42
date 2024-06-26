@@ -72,7 +72,7 @@
                             "version": "4.5.0"
                         },
                         {
-                            "packager": "SAMD_DevBoards",
+                            "packager": "MattairTech_Arduino",
                             "name": "CMSIS-Atmel",
                             "version": "3.49.1"
                         },
